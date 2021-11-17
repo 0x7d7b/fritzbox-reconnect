@@ -1,4 +1,4 @@
-# FRITZ!Box 6490 Cable - Reconnect Script
+# FRITZ!Box Reconnect Script
 
 This script uses UPnP to reconnect the FRITZ!Box.
 
