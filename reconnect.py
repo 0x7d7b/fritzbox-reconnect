@@ -37,4 +37,4 @@ if __name__ == '__main__':
     response = reconnect()
     print(response.text)
     if 200 != response.status_code:
-        exit(response.status_code)
+        exit(1)
