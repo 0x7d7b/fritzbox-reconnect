@@ -1,6 +1,8 @@
 # FRITZ!Box 6490 Cable - Reconnect Script
 
-This script uses UPnP to reconnect the FRITZ!Box. Tested with FRITZ!OS 7.12
+This script uses UPnP to reconnect the FRITZ!Box.
+
+Tested with FRITZ!OS 7.12 on FRITZ!Box 6490 Cable and FRITZ!OS 7.27 on FRITZ!Box 6591 Cable.
 
 ## Preparation
 
